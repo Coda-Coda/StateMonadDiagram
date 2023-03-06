@@ -8,7 +8,10 @@
    viewBox="0 0 938 826.79997"
    version="1.1"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="State Monad Bind in Haskell.svg"
+   sodipodi:docname="State Monad Bind.svg"
+   inkscape:export-filename="State Monad Bind.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -31,8 +34,8 @@
      id="namedview17014"
      showgrid="false"
      inkscape:zoom="0.90660951"
-     inkscape:cx="325.93966"
-     inkscape:cy="380.53869"
+     inkscape:cx="303.87945"
+     inkscape:cy="380.5387"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -41,7 +44,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1" />
   <title
-     id="title10389">State Monad Bind in Haskell</title>
+     id="title10389">State Monad Bind</title>
   <metadata
      id="metadata197">
     <rdf:RDF>
@@ -50,23 +53,24 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>State Monad Bind in Haskell</dc:title>
+        <dc:title>State Monad Bind</dc:title>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
         <dc:creator>
           <cc:Agent>
-            <dc:title>Randall Britten</dc:title>
+            <dc:title>Daniel Britten</dc:title>
           </cc:Agent>
         </dc:creator>
         <dc:contributor>
           <cc:Agent>
-            <dc:title>Daniel Mlot</dc:title>
+            <dc:title>Randall Britten
+Daniel Mlot</dc:title>
           </cc:Agent>
         </dc:contributor>
-        <dc:date>2015/07/09</dc:date>
+        <dc:date>2023/03/06</dc:date>
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
@@ -890,21 +894,21 @@
      transform="translate(11.143226,12.037655)"><tspan
        x="465"
        y="651.79999"
-       id="tspan185519"><tspan
+       id="tspan1099"><tspan
          style="font-size:46.6667px"
-         id="tspan185505">a</tspan><tspan
+         id="tspan1085">a</tspan><tspan
          style="font-size:46.6667px;fill:#ff0000"
-         id="tspan185507">V</tspan><tspan
+         id="tspan1087">V</tspan><tspan
          style="font-size:46.6667px"
-         id="tspan185509">2 := a</tspan><tspan
+         id="tspan1089">2 := a</tspan><tspan
          style="font-size:46.6667px;fill:#0000ff"
-         id="tspan185511">U</tspan><tspan
+         id="tspan1091">U</tspan><tspan
          style="font-size:46.6667px"
-         id="tspan185513"> &gt;&gt;=</tspan><tspan
+         id="tspan1093"> &gt;&gt;=</tspan><tspan
          style="font-size:53.3333px"
-         id="tspan185515"> </tspan><tspan
+         id="tspan1095"> </tspan><tspan
          style="fill:#b400ff"
-         id="tspan185517">f</tspan></tspan></text>
+         id="tspan1097">f</tspan></tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:0%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:473.715;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
@@ -914,15 +918,15 @@
      transform="translate(10.04231,77.886146)"><tspan
        x="465"
        y="651.79999"
-       id="tspan185529"><tspan
+       id="tspan1109"><tspan
          style="font-size:40px"
-         id="tspan185521">f : </tspan><tspan
+         id="tspan1101">f : </tspan><tspan
          style="fill:#0000ff"
-         id="tspan185523">U</tspan><tspan
+         id="tspan1103">U</tspan><tspan
          style="font-size:40px"
-         id="tspan185525"> ⟶ A</tspan><tspan
+         id="tspan1105"> ⟶ A</tspan><tspan
          style="fill:#ff0000"
-         id="tspan185527">V</tspan></tspan></text>
+         id="tspan1107">V</tspan></tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:0%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:667.399;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
@@ -932,25 +936,25 @@
      transform="translate(8.1009558,135.68033)"><tspan
        x="465"
        y="651.79999"
-       id="tspan185549"><tspan
+       id="tspan1129"><tspan
          style="font-size:40px"
-         id="tspan185531">f : </tspan><tspan
+         id="tspan1111">f : </tspan><tspan
          style="fill:#0000ff"
-         id="tspan185533">U</tspan><tspan
+         id="tspan1113">U</tspan><tspan
          style="font-size:40px"
-         id="tspan185535"> ⟶ </tspan><tspan
+         id="tspan1115"> ⟶ </tspan><tspan
          style="fill:#4c4c4c"
-         id="tspan185537">St</tspan><tspan
+         id="tspan1117">St</tspan><tspan
          style="font-size:40px"
-         id="tspan185539"> ⟶ (</tspan><tspan
+         id="tspan1119"> ⟶ (</tspan><tspan
          style="fill:#ff0000"
-         id="tspan185541">V</tspan><tspan
+         id="tspan1121">V</tspan><tspan
          style="font-size:40px"
-         id="tspan185543">⨯</tspan><tspan
+         id="tspan1123">⨯</tspan><tspan
          style="fill:#4c4c4c"
-         id="tspan185545">St</tspan><tspan
+         id="tspan1125">St</tspan><tspan
          style="font-size:40px"
-         id="tspan185547">)</tspan></tspan></text>
+         id="tspan1127">)</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text493"
@@ -974,7 +978,7 @@
      y="802.24615"
      id="text33371"><tspan
        sodipodi:role="line"
-       id="tspan33369"></tspan></text>
+       id="tspan33369" /></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:20px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
