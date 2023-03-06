@@ -30,8 +30,8 @@
      id="namedview17014"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="470"
-     inkscape:cy="394"
+     inkscape:cx="507"
+     inkscape:cy="366"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -83,6 +83,12 @@
   </metadata>
   <defs
      id="defs195">
+    <rect
+       x="662.19141"
+       y="609.625"
+       width="29.601562"
+       height="60.050781"
+       id="rect495" />
     <marker
        style="overflow:visible"
        id="marker16236"
@@ -357,14 +363,12 @@
      ry="21" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:35px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-weight:normal;font-size:35px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'sans-serif, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
      x="141.37241"
      y="149.30977"
      id="text4992"><tspan
-       id="tspan4994"
-       x="141.37241"
-       y="149.30977"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif">s1</tspan></text>
+       sodipodi:role="line"
+       id="tspan314">st0</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99;fill:#54937b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -375,9 +379,9 @@
        x="424.73642"
        y="147.77168"><tspan
    style="fill:#000000"
-   id="tspan5458">(</tspan>v1<tspan
+   id="tspan5458">(</tspan>u<tspan
    style="fill:#000000"
-   id="tspan5456">,s2)</tspan></tspan></text>
+   id="tspan5456">,st1)</tspan></tspan></text>
   <path
      inkscape:connector-curvature="0"
      style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5356)"
@@ -394,10 +398,16 @@
      x="297.98364"
      y="177.32417"
      id="text4992-6"><tspan
-       id="tspan4994-98"
+       sodipodi:role="line"
+       id="tspan461"
        x="297.98364"
-       y="177.32417"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif">pA</tspan></text>
+       y="177.32417"><tspan
+         id="tspan4994-98"
+         x="297.98364"
+         y="177.32417"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif">a<tspan
+   style="fill:#008000"
+   id="tspan777">U</tspan></tspan></tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:35px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -407,7 +417,9 @@
        id="tspan4994-98-6"
        x="624.89545"
        y="177.32417"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif">pB</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif">a<tspan
+   style="fill:#008000"
+   id="tspan779">V</tspan></tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99;fill:#55947c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -418,9 +430,9 @@
        x="749.50916"
        y="147.77168"><tspan
    style="fill:#000000"
-   id="tspan5462">(</tspan>v2<tspan
+   id="tspan5462">(</tspan>v<tspan
    style="fill:#000000"
-   id="tspan5464">,s3)</tspan></tspan></text>
+   id="tspan5464">,st2)</tspan></tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:0%;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99;fill:#56947e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -431,7 +443,7 @@
        x="297.01205"
        y="281.45575"><tspan
    style="fill:#000000"
-   id="tspan5460">pB = f </tspan>v1</tspan></text>
+   id="tspan5460">aV = f </tspan>u</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:0%;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -440,7 +452,9 @@
      id="text4992-3-5-4-5"><tspan
        id="tspan4994-9-2-0-4"
        x="259.28482"
-       y="455.98987">pA &gt;&gt;= f</tspan></text>
+       y="455.98987">a<tspan
+   style="fill:#008000"
+   id="tspan781">U</tspan> &gt;&gt;= f</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:0%;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -449,7 +463,9 @@
      id="text5848"><tspan
        id="tspan5850"
        x="527.88641"
-       y="576.61816">pAB</tspan></text>
+       y="576.61816">a<tspan
+   style="fill:#008000"
+   id="tspan787">V</tspan>2</tspan></text>
   <path
      inkscape:connector-curvature="0"
      style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker7386);marker-end:url(#DotS)"
@@ -481,14 +497,14 @@
      d="M 527,324.3 C 650,381.79998 650,186.8 650,186.8"
      id="path3480" />
   <rect
-     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04923;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect5468"
-     width="411.82913"
-     height="220.86324"
-     x="10.299643"
-     y="597.28143"
-     rx="8.6700869"
-     ry="6.6258979" />
+     width="453.47913"
+     height="220.81401"
+     x="10.324259"
+     y="597.30603"
+     rx="9.5469284"
+     ry="6.6244211" />
   <rect
      style="display:inline;opacity:1;fill:#cde1f5;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect4918-0-0"
@@ -518,9 +534,15 @@
      x="37.613647"
      y="745.5614"
      id="text5819"><tspan
-       id="tspan5821"
+       sodipodi:role="line"
+       id="tspan552"
        x="37.613647"
-       y="745.5614">p</tspan></text>
+       y="745.5614"><tspan
+         id="tspan5821"
+         x="37.613647"
+         y="745.5614">a<tspan
+   style="fill:#008000"
+   id="tspan567">T</tspan></tspan></tspan></text>
   <path
      inkscape:connector-curvature="0"
      style="display:inline;opacity:1;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:6, 3;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker15145);marker-end:url(#marker16236)"
@@ -528,21 +550,20 @@
      id="path5799-9" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#56947e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:381.779;display:inline;fill:#56947e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="92.659081"
      y="625.65228"
-     id="text7005"><tspan
-       id="tspan7007"
+     id="text7005"
+     transform="translate(0.22265625,11.710938)"><tspan
        x="92.659081"
        y="625.65228"
-       style="fill:#000000">Input and output </tspan><tspan
-       x="92.659081"
-       y="650.65228"
-       id="tspan7009"><tspan
+       id="tspan1475"><tspan
    style="fill:#000000"
-   id="tspan7761">(states and </tspan>results<tspan
+   id="tspan1469">Input and output </tspan><tspan
    style="fill:#000000"
-   id="tspan7763">)</tspan></tspan></text>
+   id="tspan1471">(</tspan>result<tspan
+   style="fill:#000000"
+   id="tspan1473"> and state)</tspan></tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:20px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -552,11 +573,15 @@
        x="91.693184"
        y="741.39093"
        id="tspan7015"
-       style="font-family:sans-serif">State transition caused by a</tspan><tspan
+       style="font-family:sans-serif">State transition caused by an action</tspan><tspan
        x="91.693184"
        y="766.39093"
        id="tspan7094"
-       style="font-family:sans-serif">processor p</tspan></text>
+       style="font-family:sans-serif">a<tspan
+   style="fill:#008000"
+   id="tspan775">T</tspan> which returns the type (<tspan
+   style="fill:#008000"
+   id="tspan773">T</tspan>⨯St)</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -577,26 +602,64 @@
        id="tspan7009-8">Processor</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:0%;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:0%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:452.117;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="465"
      y="651.79999"
-     id="text7651"><tspan
-       id="tspan7653"
+     id="text7651"
+     transform="translate(7.3359373,-4.4648445)"><tspan
        x="465"
-       y="651.79999">pAB = pA &gt;&gt;= f</tspan><tspan
+       y="651.79999"
+       id="tspan1487"><tspan
+         style="font-size:53.3333px"
+         id="tspan1477">a</tspan><tspan
+         style="fill:#008000"
+         id="tspan1479">V</tspan><tspan
+         style="font-size:53.3333px"
+         id="tspan1481">2 = a</tspan><tspan
+         style="fill:#008000"
+         id="tspan1483">U</tspan><tspan
+         style="font-size:53.3333px"
+         id="tspan1485"> &gt;&gt;= f</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:0%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:473.715;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+     x="465"
+     y="651.79999"
+     id="text7651-2"
+     transform="translate(4.1193375,63.828903)"><tspan
        x="465"
-       y="679.92499"
-       id="tspan7655">    = state $ \ s1 -&gt; (v2, s3)</tspan><tspan
+       y="651.79999"
+       id="tspan1497"><tspan
+         style="font-size:40px"
+         id="tspan1489">f : </tspan><tspan
+         style="fill:#008000"
+         id="tspan1491">U</tspan><tspan
+         style="font-size:40px"
+         id="tspan1493"> ⟶ A</tspan><tspan
+         style="fill:#008000"
+         id="tspan1495">V</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:0%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:667.399;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+     x="465"
+     y="651.79999"
+     id="text7651-2-5"
+     transform="translate(3.7110395,125.35233)"><tspan
        x="465"
-       y="708.04999"
-       id="tspan7657">        where</tspan><tspan
-       x="465"
-       y="736.17499"
-       id="tspan7659">        (v1, s2) = runState pA s1</tspan><tspan
-       x="465"
-       y="764.29999"
-       id="tspan7661">        pB = f v1</tspan><tspan
-       x="465"
-       y="792.42499"
-       id="tspan7663">        (v2, s3) = runState pB s2</tspan></text>
+       y="651.79999"
+       id="tspan1509"><tspan
+         style="font-size:40px"
+         id="tspan1499">f : </tspan><tspan
+         style="fill:#008000"
+         id="tspan1501">U</tspan><tspan
+         style="font-size:40px"
+         id="tspan1503"> ⟶ St ⟶ (</tspan><tspan
+         style="fill:#008000"
+         id="tspan1505">V</tspan><tspan
+         style="font-size:40px"
+         id="tspan1507">⨯St)</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text493"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect495);display:inline;fill:#000000" />
 </svg>
