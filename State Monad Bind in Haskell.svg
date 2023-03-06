@@ -29,9 +29,9 @@
      inkscape:window-height="1011"
      id="namedview17014"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="574.5"
-     inkscape:cy="402"
+     inkscape:zoom="0.58004613"
+     inkscape:cx="871.4824"
+     inkscape:cy="381.00418"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -290,7 +290,7 @@
        d="m 0,0 938,0 0,826.80054 -938,0 L 0,0 Z" />
   </clipPath>
   <rect
-     style="fill:#fae6cd;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#c3c3c3;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect4916"
      width="710"
      height="340"
@@ -299,7 +299,7 @@
      rx="88"
      ry="66" />
   <rect
-     style="fill:#fae6cd;fill-opacity:1;stroke:#000000;stroke-width:2.18297434;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#c3c3c3;fill-opacity:1;stroke:#000000;stroke-width:2.18297434;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect4965"
      width="250"
      height="90"
@@ -308,7 +308,7 @@
      rx="30"
      ry="22.5" />
   <rect
-     style="display:inline;fill:#cde1f5;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect4918-0"
      width="52.786903"
      height="39.590176"
@@ -317,7 +317,7 @@
      rx="6.5983629"
      ry="4.948772" />
   <rect
-     style="display:inline;fill:#cde1f5;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect4918-0-3"
      width="52.786903"
      height="39.590176"
@@ -326,7 +326,7 @@
      rx="6.5983629"
      ry="4.948772" />
   <rect
-     style="fill:#cde1f5;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4.5;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4.5;stroke-dasharray:none;stroke-opacity:1"
      id="rect4918"
      width="160"
      height="120"
@@ -335,7 +335,7 @@
      rx="20"
      ry="15" />
   <rect
-     style="fill:#cde1f5;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4.5;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4.5;stroke-dasharray:none;stroke-opacity:1"
      id="rect4918-7"
      width="160"
      height="120"
@@ -344,7 +344,7 @@
      rx="20"
      ry="15" />
   <rect
-     style="display:inline;fill:#cde1f5;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4.5;stroke-dasharray:none;stroke-opacity:1"
+     style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4.5;stroke-dasharray:none;stroke-opacity:1"
      id="rect4918-3"
      width="160"
      height="120"
@@ -353,7 +353,7 @@
      rx="20"
      ry="15" />
   <rect
-     style="fill:#fae6cd;fill-opacity:1;stroke:#000000;stroke-width:2.15455985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#c3c3c3;fill-opacity:1;stroke:#000000;stroke-width:2.15455985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect4982"
      width="220"
      height="110"
@@ -447,7 +447,11 @@
        x="297.01205"
        y="281.45575"><tspan
          style="fill:#000000"
-         id="tspan5460">aV = f </tspan><tspan
+         id="tspan5460">a<tspan
+   style="fill:#ff0000;fill-opacity:1"
+   id="tspan8694">V</tspan> = <tspan
+   style="fill:#b400ff;fill-opacity:1"
+   id="tspan8670">f</tspan> </tspan><tspan
          style="fill:#0075ff;fill-opacity:1"
          id="tspan3751">u</tspan></tspan></text>
   <text
@@ -460,7 +464,9 @@
        x="259.28482"
        y="455.98987">a<tspan
    style="fill:#0000ff;fill-opacity:1"
-   id="tspan781">U</tspan> &gt;&gt;= f</tspan></text>
+   id="tspan781">U</tspan> &gt;&gt;= <tspan
+   style="fill:#b400ff;fill-opacity:1"
+   id="tspan8464">f</tspan></tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:0%;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -512,7 +518,7 @@
      rx="9.5469284"
      ry="6.6244211" />
   <rect
-     style="display:inline;opacity:1;fill:#cde1f5;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect4918-0-0"
      width="52.786903"
      height="39.590176"
@@ -521,7 +527,7 @@
      rx="6.5983629"
      ry="4.948772" />
   <rect
-     style="display:inline;opacity:1;fill:#fae6cd;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="display:inline;opacity:1;fill:#c3c3c3;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect4918-0-0-7"
      width="52.786903"
      height="39.590176"
@@ -561,13 +567,13 @@
      transform="translate(0.22265625,11.710938)"><tspan
        x="92.659081"
        y="625.65228"
-       id="tspan5567"><tspan
-   style="fill:#000000"
-   id="tspan5561">Input and output </tspan><tspan
-   style="fill:#000000"
-   id="tspan5563">(</tspan>result<tspan
-   style="fill:#000000"
-   id="tspan5565"> and state)</tspan></tspan></text>
+       id="tspan11933"><tspan
+         style="fill:#000000"
+         id="tspan11927">Input and output (</tspan><tspan
+         style="fill:#000000"
+         id="tspan11929">result</tspan><tspan
+         style="fill:#000000"
+         id="tspan11931"> and state)</tspan></tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:20px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -599,7 +605,7 @@
      id="text7005-8"><tspan
        x="92.659081"
        y="696.43634"
-       id="tspan7009-8">Processor</tspan></text>
+       id="tspan7009-8">Action</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:0%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:452.117;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -609,17 +615,19 @@
      transform="translate(7.3359373,-4.4648445)"><tspan
        x="465"
        y="651.79999"
-       id="tspan5579"><tspan
+       id="tspan11947"><tspan
          style="font-size:53.3333px"
-         id="tspan5569">a</tspan><tspan
+         id="tspan11935">a</tspan><tspan
          style="fill:#ff0000"
-         id="tspan5571">V</tspan><tspan
+         id="tspan11937">V</tspan><tspan
          style="font-size:53.3333px"
-         id="tspan5573">2 = a</tspan><tspan
+         id="tspan11939">2 = a</tspan><tspan
          style="fill:#0000ff"
-         id="tspan5575">U</tspan><tspan
+         id="tspan11941">U</tspan><tspan
          style="font-size:53.3333px"
-         id="tspan5577"> &gt;&gt;= f</tspan></tspan></text>
+         id="tspan11943"> &gt;&gt;= </tspan><tspan
+         style="fill:#b400ff"
+         id="tspan11945">f</tspan></tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:0%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:473.715;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
@@ -629,15 +637,15 @@
      transform="translate(4.1193375,63.828903)"><tspan
        x="465"
        y="651.79999"
-       id="tspan5589"><tspan
+       id="tspan11957"><tspan
          style="font-size:40px"
-         id="tspan5581">f : </tspan><tspan
+         id="tspan11949">f : </tspan><tspan
          style="fill:#0000ff"
-         id="tspan5583">U</tspan><tspan
+         id="tspan11951">U</tspan><tspan
          style="font-size:40px"
-         id="tspan5585"> ⟶ A</tspan><tspan
+         id="tspan11953"> ⟶ A</tspan><tspan
          style="fill:#ff0000"
-         id="tspan5587">V</tspan></tspan></text>
+         id="tspan11955">V</tspan></tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:0%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:667.399;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
@@ -647,17 +655,17 @@
      transform="translate(3.7110395,125.35233)"><tspan
        x="465"
        y="651.79999"
-       id="tspan5601"><tspan
+       id="tspan11969"><tspan
          style="font-size:40px"
-         id="tspan5591">f : </tspan><tspan
+         id="tspan11959">f : </tspan><tspan
          style="fill:#0000ff"
-         id="tspan5593">U</tspan><tspan
+         id="tspan11961">U</tspan><tspan
          style="font-size:40px"
-         id="tspan5595"> ⟶ St ⟶ (</tspan><tspan
+         id="tspan11963"> ⟶ St ⟶ (</tspan><tspan
          style="fill:#ff0000"
-         id="tspan5597">V</tspan><tspan
+         id="tspan11965">V</tspan><tspan
          style="font-size:40px"
-         id="tspan5599">⨯St)</tspan></tspan></text>
+         id="tspan11967">⨯St)</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text493"
